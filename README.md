@@ -18,7 +18,7 @@ This repository contains a powerful realtime climate analysis pipeline leveragin
 
 - **Advanced Analytics:** Python scripts are employed for carrying out advanced analytics like linear regression on the collected data.
 ![image](https://github.com/ritikdhame/Realtime-Climate-Anlsyis/assets/7029092/88e9be61-c5f1-4421-a363-8abff27b8ae7)
--instance prediction of Temprature with XGBoost Model
+- **instance prediction of Temprature with XGBoost Model**
 ![image](https://github.com/ritikdhame/Realtime-Climate-Anlsyis/assets/7029092/2d776c68-9afa-4f87-a71a-8b522e973ab7)
 
 - **Optimization and Scaling:** Provides best practices for optimizing and scaling the data pipeline to enhance performance, ensure data integrity, and accommodate evolving project needs.
