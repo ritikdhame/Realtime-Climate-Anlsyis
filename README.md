@@ -42,12 +42,9 @@ This repository contains a powerful realtime climate analysis pipeline leveragin
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
-- Thanks to [Climate API](https://www.climate.com/) for providing the weather data.
+- Thanks to [Wheather API](https://www.wheatherapi.com/) for providing the weather data.
 - This project was inspired by the need for real-time climate analysis and the power of AWS and Snowflake in handling large-scale data pipelines.
 
 ## Contact
-For any inquiries or support, please contact [your@email.com].
+For any inquiries or support, please contact https://www.linkedin.com/in/ritikdhame/ .
